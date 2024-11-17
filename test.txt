@@ -1,3 +1,5 @@
 test
 git commit --amend
 git test test
+
+git merge
